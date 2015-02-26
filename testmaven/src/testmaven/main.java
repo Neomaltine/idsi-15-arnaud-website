@@ -18,6 +18,7 @@ public class main {
 		System.out.println("Test123");
 		System.out.println("Test123");
 		System.out.println("Test123");
+		System.out.println("TestPush");
 		
 	}
 
